@@ -13,3 +13,8 @@ Here is a set of seven icons representing the weather. The following lists the w
 To see all the weather icons, click [here](http://i6.cims.nyu.edu/~awc316/dotw/svg/).
 
 Additionally, a sprite svg file with all the above icons is included.
+
+
+##Source of forked repo
+- Name: Anna Chiu
+- Link: [github repo](https://github.com/AnnaChiu/svg-version-control)
